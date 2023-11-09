@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cadieuxpaquinr
+- 👋 Hi, I’m Raphael Cadieux-Paquin AKA @cadieuxpaquinr
 - 👀 I’m interested in software development and data analysis.
 - 🌱 I’m currently learning how to use Unreal Engine on top of my university classes.
 - 💞️ I’m looking to collaborate on a video game project on Unreal Engine.
